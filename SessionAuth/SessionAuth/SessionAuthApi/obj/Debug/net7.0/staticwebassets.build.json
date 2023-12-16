@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "plzFRrONxCNgWhXPCZPi0w6fPqzKBRauqIwxcjkACQU=",
+  "Source": "SessionAuthApi",
+  "BasePath": "_content/SessionAuthApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
